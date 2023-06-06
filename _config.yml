@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: Zhuorui (Sherry) Xie
+email: sxie04@gmail.com
+logo: /assets/img/headshot.jpeg
+domain: sxie04.github.io 
+url: https://sxie04.github.io 
+github_username: sxie04
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
